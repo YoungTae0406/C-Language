@@ -1,0 +1,5 @@
+﻿  과제04.c
+c:\users\administrator\source\repos\컴프과제_07\컴프과제_07\과제04.c(12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\administrator\source\repos\컴프과제_07\컴프과제_07\과제04.c(23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\administrator\source\repos\컴프과제_07\컴프과제_07\과제04.c(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  컴프과제_07.vcxproj -> C:\Users\Administrator\source\repos\컴프과제_07\Debug\컴프과제_07.exe

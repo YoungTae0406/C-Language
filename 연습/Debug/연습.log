@@ -1,0 +1,4 @@
+﻿  연습10.c
+c:\users\administrator\source\repos\연습\연습\연습10.c(2): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\administrator\source\repos\연습\연습\연습10.c(10): warning C4013: 'strcpy_s'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  연습.vcxproj -> C:\Users\Administrator\source\repos\연습\Debug\연습.exe
